@@ -1,5 +1,5 @@
 <p align="center">:calling: 一款满足你的多种发送需求的短信发送组件</p>
-<p align="center">本组件是由 overtrue/easy-sms 改造，升级了原有主键依赖较低的问题；支持hyperf组件，直达连接： https://github.com/overtrue/easy-sms/blob/master/README.md</p>
+<p align="center">本组件是由 overtrue/easy-sms 改造，升级了原有组件依赖较低的问题；支持hyperf组件，直达连接： https://github.com/overtrue/easy-sms/blob/master/README.md</p>
 
 ## 特点
 
@@ -35,16 +35,16 @@
 
 ## 环境需求
 
-- PHP >= 7.0
+- PHP >= 7.3
 
 ## 安装
 
 ```
-$ composer require "hyperf-lib/sms"
+$ composer require "lujihong/hyperf-sms"
 ```
 
 ```
-$ php bin/hyperf.php vendor:publish hyperf-lib/sms
+$ php bin/hyperf.php vendor:publish lujihong/hyperf-sms
 ```
 
 ## 使用
