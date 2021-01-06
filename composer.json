@@ -18,7 +18,7 @@
         }
     },
     "require": {
-        "php": ">=7.2",
+        "php": ">=7.3",
         "ext-swoole": ">=4.4",
         "hyperf/config": "2.1.*",
         "hyperf/contract": "2.1.*",
