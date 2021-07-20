@@ -20,18 +20,18 @@
     "require": {
         "php": ">=7.3",
         "ext-swoole": ">=4.4",
-        "hyperf/config": "2.1.*",
-        "hyperf/contract": "2.1.*",
-        "hyperf/di": "2.1.*",
-        "hyperf/guzzle": "2.1.*",
-        "hyperf/utils": "2.1.*",
+        "hyperf/config": "2.2.*",
+        "hyperf/contract": "2.2.*",
+        "hyperf/di": "2.2.*",
+        "hyperf/guzzle": "2.2.*",
+        "hyperf/utils": "2.2.*",
         "mockery/mockery": "~1.3.0",
         "ext-json": "*"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.14",
         "phpstan/phpstan": "^0.10.5",
-        "hyperf/testing": "2.1.*",
+        "hyperf/testing": "2.2.*",
         "swoft/swoole-ide-helper": "dev-master"
     },
     "config": {
